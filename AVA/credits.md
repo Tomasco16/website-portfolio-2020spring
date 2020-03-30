@@ -1,0 +1,4 @@
+- https://www.sportys.com/pilotshop/folding-utility-cart.html 
+- This is a picture of the product we would be selling. It is listed on the website and does not seems credited to anyone so I would call it fair use
+- https://capemaycountynj.gov/382/Avalon 
+- This image is from the New Jersey State websiteand is also not credited to anyone inparticular so I am also thimking it is fair use 
