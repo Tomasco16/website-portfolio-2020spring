@@ -77,3 +77,7 @@ body {
   margin: 20px auto;
 display: block;
 }
+.flex-row {
+  display: flex;
+  justify-content: center;
+}
